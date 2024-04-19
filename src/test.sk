@@ -1,0 +1,3 @@
+on join:
+#comment
+    broadcast "welcome"
