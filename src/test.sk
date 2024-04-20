@@ -1,3 +1,4 @@
 on join:
-#comment
-    broadcast "welcome"
+    send "welcome back %player's name%" to the player
+on first join:
+    send "welcome to sosisa hope you enjoy %player's name%" to the player
